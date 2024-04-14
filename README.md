@@ -18,7 +18,7 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 ## Installation Instructions
 1. *Clone the Repository*:
    
-   git clone https://github.com/navjeevan-alone/ignitor-datathon-ksp
+   git clone https://github.com/Abhi8459/ignitor-datathon-ksp.git
 
    
 2. *Install Dependencies*:
