@@ -51,7 +51,7 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 ![Outputimage](https://github.com/Abhi8459/ignitor-datathon-ksp/assets/124365954/c023e212-da63-4800-be06-b343b8cf8151)
 
 
-### Simulation Result
+### Simulation
 ![SimulationOutput](https://github.com/Abhi8459/ignitor-datathon-ksp/assets/124365954/03084789-43ec-469c-b2b7-951411e8030a)
 
 
