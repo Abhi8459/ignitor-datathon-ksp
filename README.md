@@ -46,12 +46,12 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 - *Functionality*: Simulates traffic flow, adaptive signal switching, and vehicle movements at intersections. Users can customize simulation parameters, such as traffic density, signal timings, and vehicle behavior, to simulate specific scenarios and analyze system behavior. The simulation module provides tools for generating reports, visualizing data, and extracting insights from simulation results.
 - *Instructions*: Run simulations, interpret results, and analyze system performance under different conditions. The simulation module provides tools for generating reports, visualizing data, and extracting insights from simulation results. Users can customize simulation parameters, observe traffic flow dynamics, and analyze system behavior to gain insights into the effectiveness of the adaptive signal switching algorithm.
 
-### Results:
-### Vehicle Detection:
+### Demo:
+### Vehicle Detection
 ![Outputimage](https://github.com/Abhi8459/ignitor-datathon-ksp/assets/124365954/c023e212-da63-4800-be06-b343b8cf8151)
 
 
-### Simulation Result:
+### Simulation Result
 ![SimulationOutput](https://github.com/Abhi8459/ignitor-datathon-ksp/assets/124365954/03084789-43ec-469c-b2b7-951411e8030a)
 
 
