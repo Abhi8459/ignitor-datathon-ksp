@@ -67,10 +67,10 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 - *Guidelines*: Refer to the [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute to the project. The guidelines outline the contribution process, coding standards, and community expectations for contributors. By following the contribution guidelines and collaborating with other contributors, users can actively participate in the project and contribute to its success.
 
 ## Contributors:
-- Abhishek Yadav : *[Abhishek Yadav](https://github.com/Abhi8459)*
-- Hitesh Patel : *[Hitesh Patel](https://github.com/Hp1514197)*
-- Piyush Joshi : *[Piyush Joshi](https://github.com/PIYUSH-JOSHI1)*
-- Rajtilak Jhoshi : *[Rajtilak Jhoshi](https://github.com/rajtilak113)*
+- Abhishek Yadav : *[Abhi8459](https://github.com/Abhi8459)*
+- Hitesh Patel : *[Hp1514197](https://github.com/Hp1514197)*
+- Piyush Joshi : *[PIYUSH-JOSHI1](https://github.com/PIYUSH-JOSHI1)*
+- Rajtilak Jhoshi : *[rajtilak113](https://github.com/rajtilak113)*
 
 
 ### License:
