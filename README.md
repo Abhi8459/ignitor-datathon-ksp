@@ -47,9 +47,9 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 - *Instructions*: Run simulations, interpret results, and analyze system performance under different conditions. The simulation module provides tools for generating reports, visualizing data, and extracting insights from simulation results. Users can customize simulation parameters, observe traffic flow dynamics, and analyze system behavior to gain insights into the effectiveness of the adaptive signal switching algorithm.
 
 ### Results:
-#Vehicle Detection:
+# Vehicle Detection:
 
-#Simulation Result:
+# Simulation Result:
 
 
 - *Comparison*: Evaluates system performance against traditional static signal systems through quantitative analysis. The project compares key metrics, such as traffic throughput, average wait times, and congestion levels, to assess the effectiveness of the adaptive signal switching algorithm. By analyzing simulation results and performance metrics, the project provides insights into the impact of the adaptive signal switching algorithm on traffic flow optimization and congestion management.
