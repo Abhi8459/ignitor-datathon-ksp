@@ -66,6 +66,11 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 . By contributing code, documentation, or feedback, users can help enhance the project and drive innovation in traffic management and optimization.
 - *Guidelines*: Refer to the [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions on how to contribute to the project. The guidelines outline the contribution process, coding standards, and community expectations for contributors. By following the contribution guidelines and collaborating with other contributors, users can actively participate in the project and contribute to its success.
 
+## Contributer:
+  *Hitesh Patel(@Hp1514197)*
+  *Piyush Joshi(@)*
+
+
 ### License:
 ## Project License
 - *License Type*: The project is licensed under the [MIT License](LICENSE.md), providing users with the freedom to use, modify, and distribute the software. The MIT License promotes open collaboration and allows for the integration of the project into other software systems. By adopting an open-source license, the project encourages collaboration, innovation, and community engagement in traffic management and optimization efforts.
