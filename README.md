@@ -48,8 +48,11 @@ The *Traffic Flow Optimization And Congestion Management* project aims to revolu
 
 ### Results:
 ### Vehicle Detection:
+![Outputimage](https://github.com/Abhi8459/ignitor-datathon-ksp/assets/124365954/c023e212-da63-4800-be06-b343b8cf8151)
+
 
 ### Simulation Result:
+![SimulationOutput](https://github.com/Abhi8459/ignitor-datathon-ksp/assets/124365954/03084789-43ec-469c-b2b7-951411e8030a)
 
 
 - *Comparison*: Evaluates system performance against traditional static signal systems through quantitative analysis. The project compares key metrics, such as traffic throughput, average wait times, and congestion levels, to assess the effectiveness of the adaptive signal switching algorithm. By analyzing simulation results and performance metrics, the project provides insights into the impact of the adaptive signal switching algorithm on traffic flow optimization and congestion management.
