@@ -20,7 +20,7 @@ classNames = ["person", "bicycle", "car", "motorbike", "aeroplane", "bus", "trai
               "diningtable", "toilet", "tvmonitor", "laptop", "mouse", "remote", "keyboard", "cell phone",
               "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock", "vase", "scissors",
               "teddy bear", "hair drier", "toothbrush"
-              ]
+             ]
 
 # mask = cv2.imread('./images/Untitled design.png')
 
@@ -36,6 +36,10 @@ limit4 = [1390, 140, 1390, 380]
 limit5 = [550, 70, 550, 230]
 limit6 = [590, 70, 590, 230]
 
+limit7 = [800, 80, 980, 80]
+limit8 = [800, 80, 750, 120]
+limit9 = [980, 2, 980, 80]
+limit10 = [1110, 2, 1170, 120]
 
 totalCount1 = []
 totalCount2 = []
@@ -88,8 +92,11 @@ while True:
     cv2.line(img, (limit5[0], limit5[1]), (limit5[2], limit5[3]), (250, 182, 122), 3)
     cv2.line(img, (limit6[0], limit6[1]), (limit6[2], limit6[3]), (250, 182, 122), 3)
 
-
-
+    cv2.line(img, (limit7[0], limit7[1]), (limit7[2], limit7[3]), (0,0,255), 3)
+    cv2.line(img, (limit8[0], limit8[1]), (limit8[2], limit8[3]), (0,0,255), 3)
+    cv2.line(img, (limit9[0], limit9[1]), (limit9[2], limit9[3]), (0, 0, 255), 3)
+    cv2.line(img, (limit10[0], limit10[1]), (limit10[2], limit10[3]), (0, 0, 255), 3)
+    
     for result in resultsTracker:
         x1, y1, x2, y2, id = result
         x1, y1, x2, y2 = int(x1), int(y1), int(x2), int(y2)
